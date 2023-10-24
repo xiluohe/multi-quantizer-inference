@@ -1,0 +1,10 @@
+/data
+/hf
+/hg
+/LibriSpeech
+/old
+/.ipynb_checkpoints
+/codebook_indexes
+/quantizers
+*.pickle
+*.pt
